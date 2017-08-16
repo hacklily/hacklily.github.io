@@ -1,4 +1,5 @@
 {
-  "main.js": "static/js/main.397dd87c.js",
-  "static/media/logo.svg": "static/media/logo.729a4eef.svg"
+  "app.js": "static/js/app.c1a8fc75.js",
+  "static/media/logo.svg": "static/media/logo.729a4eef.svg",
+  "status.js": "static/js/status.b690153e.js"
 }
