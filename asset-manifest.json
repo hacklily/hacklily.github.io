@@ -1,5 +1,7 @@
 {
-  "app.js": "static/js/app.c1a8fc75.js",
+  "app.js": "static/js/app.8bfa18b5.js",
+  "app.js.map": "static/js/app.8bfa18b5.js.map",
   "static/media/logo.svg": "static/media/logo.729a4eef.svg",
-  "status.js": "static/js/status.b690153e.js"
+  "status.js": "static/js/status.da1a418d.js",
+  "status.js.map": "static/js/status.da1a418d.js.map"
 }
