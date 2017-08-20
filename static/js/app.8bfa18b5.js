@@ -20,9 +20,12 @@
  * section 4, provided you include this license notice and a URL
  * through which recipients can access the Corresponding Source.
  * 
- * As additional permission under GNU GPL version 3 section 7, you
- * may link this software to software included with any web browser,
- * including non-free web browsers.
+ * As additional permission under GNU GPL version 3 section 7,
+ * the term "System Libraries" is extended to include the JavaScript
+ * libraries provided with any browser. If you modify this code, you
+ * may extend this exception to your version of the code, but you are
+ * not obligated to do so. If you do not wish to do so, delete this
+ * exception statement from your version. 
  * 
  * SEE ADDITIONAL COPYRIGHT NOTICES AT /about-javascript.html.
  * 
