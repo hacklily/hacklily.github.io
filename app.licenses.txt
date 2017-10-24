@@ -104,7 +104,7 @@ minimalistic-assert@1.0.0
 ISC
 ISC
 
-webpack@3.7.1
+webpack@3.8.1
 MIT
 Copyright JS Foundation and other contributors
 
