@@ -1,7 +1,9 @@
 {
-  "app.js": "static/js/app.4a65c133.js",
-  "app.js.map": "static/js/app.4a65c133.js.map",
+  "app.js": "static/js/app.97d42186.js",
+  "app.js.map": "static/js/app.97d42186.js.map",
+  "static/js/0.de2cd2e9.chunk.js": "static/js/0.de2cd2e9.chunk.js",
+  "static/js/0.de2cd2e9.chunk.js.map": "static/js/0.de2cd2e9.chunk.js.map",
   "static/media/logo.svg": "static/media/logo.729a4eef.svg",
-  "status.js": "static/js/status.b6a399ff.js",
-  "status.js.map": "static/js/status.b6a399ff.js.map"
+  "status.js": "static/js/status.ede103b7.js",
+  "status.js.map": "static/js/status.ede103b7.js.map"
 }
