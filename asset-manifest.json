@@ -1,9 +1,11 @@
 {
-  "app.js": "static/js/app.97d42186.js",
-  "app.js.map": "static/js/app.97d42186.js.map",
-  "static/js/0.de2cd2e9.chunk.js": "static/js/0.de2cd2e9.chunk.js",
-  "static/js/0.de2cd2e9.chunk.js.map": "static/js/0.de2cd2e9.chunk.js.map",
+  "app.js": "static/js/app.b81ac87f.js",
+  "app.js.map": "static/js/app.b81ac87f.js.map",
+  "static/js/0.0ecb0793.chunk.js": "static/js/0.0ecb0793.chunk.js",
+  "static/js/0.0ecb0793.chunk.js.map": "static/js/0.0ecb0793.chunk.js.map",
+  "static/js/1.5958deb1.chunk.js": "static/js/1.5958deb1.chunk.js",
+  "static/js/1.5958deb1.chunk.js.map": "static/js/1.5958deb1.chunk.js.map",
   "static/media/logo.svg": "static/media/logo.729a4eef.svg",
-  "status.js": "static/js/status.ede103b7.js",
-  "status.js.map": "static/js/status.ede103b7.js.map"
+  "status.js": "static/js/status.4fd7617f.js",
+  "status.js.map": "static/js/status.4fd7617f.js.map"
 }

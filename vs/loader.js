@@ -28,7 +28,7 @@
  * for the JavaScript code in this file.
 *//*!-----------------------------------------------------------
  * Copyright (c) Microsoft Corporation. All rights reserved.
- * Version: 0.10.0(9b725bd7807ee959240b4af7906fae119b0fbf9e)
+ * Version: 0.10.1(ebbf400719be21761361804bf63fb3916e64a845)
  * Released under the MIT license
  * https://github.com/Microsoft/vscode/blob/master/LICENSE.txt
  *-----------------------------------------------------------*/
