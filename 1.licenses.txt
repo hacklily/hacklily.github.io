@@ -1,4 +1,4 @@
-hackmidi@0.0.2
+hackmidi@0.0.3
 LGPLv3
 GNU LESSER GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
