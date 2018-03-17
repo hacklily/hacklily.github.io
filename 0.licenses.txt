@@ -1,4 +1,4 @@
-makelily@0.1.0
+makelily@0.1.1
 AGPL-3.0
 AGPL-3.0
 
